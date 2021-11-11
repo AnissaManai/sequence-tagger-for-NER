@@ -1,0 +1,7 @@
+__pycache__/
+ENV_DIR/
+data/
+archive/
+tut1-model.pt
+task_description.txt
+
