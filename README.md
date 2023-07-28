@@ -1,2 +1,2 @@
 # sequence-tagger-for-NER
-Simple sequence tagger using word embeddings for named entity recognition
+A simple sequence tagger using word embeddings and RNN(LSTM) for named entity recognition.
